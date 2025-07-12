@@ -1,14 +1,5 @@
 [
   {
-    "id": 1,
-    "priority": 1,
-    "action": { "type": "block" },
-    "condition": {
-      "urlFilter": "https://learn.algoritmika.org/uploads/student/70069026/unity/58256718/testAlgoSecurity/AlgoSecurity.html",
-      "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"]
-    }
-  },
-  {
     "id": 2,
     "priority": 2,
     "action": { "type": "block" },

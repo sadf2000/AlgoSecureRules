@@ -14,7 +14,7 @@
     "action": { "type": "block" },
     "condition": {
       "urlFilter": "https://learn.algoritmika.org/uploads/student/1269582/unity/*",
-      "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"]
+      "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest", "script"]
     }
   }
 ]

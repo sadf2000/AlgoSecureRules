@@ -25,5 +25,14 @@
       "urlFilter": "https://learn.algoritmika.org/uploads/student/70180485/unity/*",
       "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest", "script"]
     }
+  },
+  {
+    "id": 4,
+    "priority": 2,
+    "action": { "type": "block" },
+    "condition": {
+      "urlFilter": "https://learn.algoritmika.org/uploads/student/2273843/unity/*",
+      "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest", "script"]
+    }
   }
 ]
